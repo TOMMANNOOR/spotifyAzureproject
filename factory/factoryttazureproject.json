@@ -1,0 +1,9 @@
+{
+	"name": "factoryttazureproject",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd4f0a2a-bd90-4981-9664-e9a6827d6e62",
+		"tenantId": "15c5ec25-45e3-4a36-a3d0-000c180e3938"
+	}
+}
